@@ -19,7 +19,7 @@ In a session nodes can transfer messages between each other, if there is no acti
 
 Nodes usually reperesent devices, but could be any PIoT process on the network (such as a client or background process).
 
-There is nothing limiting one node to one device.
+There is nothing limiting one node to one device, and nodes can contain other inputs (such as a http listener).
 
 ### Connections & Listening
 
